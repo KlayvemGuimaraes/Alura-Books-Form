@@ -1,7 +1,7 @@
 # Projetos Alura Oracle - ONE
  > Oracle Next Education Oracle
 
-[Clique aqui para acessar o site]()
+[Clique aqui para acessar o site](https://klayvemguimaraes.github.io/klayvemguimares.github.io/)
 
 <h2 align="center">Projeto de cadastro de livros | <span span style="color: #f59e0b;">Alura Books</span></h2>
 
